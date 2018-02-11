@@ -55,7 +55,7 @@
       .type("'wood'", '<span class="green">')
       .wait(15)
       .del(6)
-      .type("'洪榕森'", '<span class="green">')
+      .type("'嘟嘟猪'", '<span class="green">')
       .type(',', '<span class="gray">')
       .type('0', '<br>')
       // 珊珊
